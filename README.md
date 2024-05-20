@@ -27,7 +27,7 @@ Hi! My name is Lilian Tsubaki. I am currently a student at BYU studying Informat
     - GitHub
 - **GitHub Repository:** https://github.com/ltsubaki/IntexQueensSlay.git
 
-
+### Contact Information
 - **Email:** lilianrtsubaki@gmail.com
 - **LinkedIn:** www.linkedin.com/in/lilian-tsubaki
 
