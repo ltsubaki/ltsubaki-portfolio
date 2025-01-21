@@ -27,6 +27,12 @@ Hi! My name is Lilian Tsubaki. I am currently a student at BYU studying Informat
     - GitHub
 - **GitHub Repository:** https://github.com/ltsubaki/IntexQueensSlay.git
 
+### Recipe Book App (iOS)
+- **Description:** A simple recipe book app. CRUD functionality allows you to add and edit your own recipes! Uses Swift Data.
+- **XCode**
+- **GitHubRepository:** https://github.com/ltsubaki/RecipeBook.git
+
+
 ### Language Learning App (iOS)
 - **Description:** A simple Mandarin Chinese language learning app. Contains lessons, flashcards, quizzes, and animations.
 - **XCode**
