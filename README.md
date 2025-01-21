@@ -27,6 +27,11 @@ Hi! My name is Lilian Tsubaki. I am currently a student at BYU studying Informat
     - GitHub
 - **GitHub Repository:** https://github.com/ltsubaki/IntexQueensSlay.git
 
+### Language Learning App (iOS)
+- **Description:** A simple Mandarin Chinese language learning app. Contains lessons, flashcards, quizzes, and animations.
+- **XCode**
+- **GitHubRepository:** https://github.com/ltsubaki/LanguageLearningApp.git
+
 ### Contact Information
 - **Email:** lilianrtsubaki@gmail.com
 - **LinkedIn:** www.linkedin.com/in/lilian-tsubaki
