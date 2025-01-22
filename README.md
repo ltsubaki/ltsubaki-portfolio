@@ -38,6 +38,11 @@ Hi! My name is Lilian Tsubaki. I am currently a student at BYU studying Informat
 - **XCode**
 - **GitHubRepository:** https://github.com/ltsubaki/LanguageLearningApp.git
 
+### Current Project: Lotería App (iOS)
+- **Description:** Lotería is a traditional Mexican board game, similar to bingo. As each object/person is called out, you can then mark it on your board. You win when you get four in a row, all four corners, or all four center squares. A close friend of mine is Mexican, and his family enjoys playing Lotería when they get together. His mom expressed discontent with the current app that she has, so I thought I could design a cleaner and more user friendly version! Stay tuned for this app completion!
+- **XCode**
+- **GitHubRepository**: Coming soon
+
 ### Contact Information
 - **Email:** lilianrtsubaki@gmail.com
 - **LinkedIn:** www.linkedin.com/in/lilian-tsubaki
